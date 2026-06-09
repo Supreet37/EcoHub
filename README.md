@@ -10,7 +10,7 @@ The app is built entirely on the frontend with React and Vite, making it fast, l
 
 ## 📸 Preview
 
-> _Add a screenshot or GIF of the app here once deployed._
+<img src="demo.png" />
 
 ---
 
