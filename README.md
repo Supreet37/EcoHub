@@ -211,10 +211,5 @@ For major changes, please open an issue first to discuss what you'd like to chan
 
 ---
 
-## 📄 License
-
-[MIT](LICENSE) — free to use, modify, and distribute.
-
----
 
 <p align="center">Made with lots of peace and thinking for the planet</p>
